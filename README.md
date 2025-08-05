@@ -122,3 +122,8 @@ Pull requests are welcome. For major changes, please open an issue first.
 ---
 
 **Frontend for the [PrimeChoice Ecommerce](https://github.com/VaddiNaveenKumar/PrimeChoice_Ecommerce_backend)** backend.
+
+## 👨💻 Author
+
+Naveen Kumar Vaddi  
+GitHub: [VaddiNaveenKumar](https://github.com/VaddiNaveenKumar)
