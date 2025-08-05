@@ -16,37 +16,38 @@ This is the frontend application for **PrimeChoice**, a modern e-commerce web pl
 
 ## 📁 Folder Structure
 
+```plaintext
 frontend/
-├── public/ # Static files served directly
-│ ├── background.jpg
-│ ├── login-illustration.png
-│ ├── shipped.jpg
-│ └── vite.svg
-├── src/ # Application source code
-│ ├── assets/ # Extra images and icons
-│ ├── AdminDashboard.jsx # Admin dashboard UI
-│ ├── AdminLogin.jsx # Admin login page
-│ ├── App.css
-│ ├── App.jsx # Main App component
-│ ├── CartIcon.jsx
-│ ├── CartPage.css
-│ ├── CartPage.jsx # Shopping cart page
-│ ├── CategoryNavigation.jsx # Category listing/navigation
-│ ├── CustomerHomePage.jsx # Home page for customers
-│ ├── CustomModal.jsx # Modal/dialog component
-│ ├── Footer.jsx
-│ ├── Header.jsx
-│ ├── index.css
-│ ├── LoginPage.jsx # Customer login page
-│ ├── Logo.jsx
-│ ├── logo.png
-│ ├── main.jsx # Entry point
-│ ├── OrderPage.jsx # Order history/details
-│ ├── ProductList.jsx # Product listings
-│ ├── ProfileDropdown.jsx # User/admin profile menu
-│ ├── RegistrationPage.jsx # User registration
-│ ├── Routes.jsx # App route definitions
-│ └── useravatar.png
+├── public/                  # Static files served directly
+│   ├── background.jpg
+│   ├── login-illustration.png
+│   ├── shipped.jpg
+│   └── vite.svg
+├── src/                     # Application source code
+│   ├── assets/                  # Extra images and icons
+│   ├── AdminDashboard.jsx       # Admin dashboard UI
+│   ├── AdminLogin.jsx           # Admin login page
+│   ├── App.css
+│   ├── App.jsx                  # Main App component
+│   ├── CartIcon.jsx
+│   ├── CartPage.css
+│   ├── CartPage.jsx             # Shopping cart page
+│   ├── CategoryNavigation.jsx   # Category listing/navigation
+│   ├── CustomerHomePage.jsx     # Home page for customers
+│   ├── CustomModal.jsx          # Modal/dialog component
+│   ├── Footer.jsx
+│   ├── Header.jsx
+│   ├── index.css
+│   ├── LoginPage.jsx            # Customer login page
+│   ├── Logo.jsx
+│   ├── logo.png
+│   ├── main.jsx                 # Entry point
+│   ├── OrderPage.jsx            # Order history/details
+│   ├── ProductList.jsx          # Product listings
+│   ├── ProfileDropdown.jsx      # User/admin profile menu
+│   ├── RegistrationPage.jsx     # User registration
+│   ├── Routes.jsx               # App route definitions
+│   └── useravatar.png
 ├── .gitignore
 ├── eslint.config.js
 ├── index.html
@@ -54,8 +55,8 @@ frontend/
 ├── package-lock.json
 ├── README.md
 └── vite.config.js
+```
 
-undefined
 
 
 ## 🚀 Features
